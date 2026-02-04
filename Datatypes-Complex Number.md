@@ -13,7 +13,18 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 Add Code Here
+```
+a = int(input())
+b = int(input())
 
+x = complex(a, b)
+
+print(x)
+print(x.real)
+print(x.imag)
+```
 ## Output
+<img width="307" height="231" alt="image" src="https://github.com/user-attachments/assets/0e3f887d-2c18-4e1e-b6d8-1e58bcc46329" />
 
 ## Result
+thus the program was executed sucessfully
